@@ -1,0 +1,64 @@
+{
+  "class_name": "Бард",
+  "hit_dice": 8,
+  "proficient": [
+    "dexterity",
+    "charisma"
+  ],
+  "skills": [
+    "athletics",
+    "acrobatics",
+    "sleight_of_hand",
+    "stealth",
+    "arcana",
+    "history",
+    "investigation",
+    "nature",
+    "religion",
+    "animal_handling",
+    "insight",
+    "medicine",
+    "perception",
+    "survival",
+    "deception",
+    "intimidation",
+    "performance",
+    "persuasion"
+  ],
+  "using": {
+    "доспехи": [
+      "Лёгкие доспехи"
+    ],
+    "оружие": [
+      "Простое оружие",
+      "длинные мечи",
+      "короткие мечи",
+      "рапиры",
+      "ручные арбалеты"
+    ],
+    "инструменты": [
+      "Три музыкальных инструмента на ваш выбор"
+    ]
+  },
+  "equipment": [
+    [
+      "рапира, длинный меч",
+      "в) любое простое оружие"
+    ],
+    [
+      "набор дипломата",
+      "набор артиста"
+    ],
+    [
+      "лютня",
+      "любой другой музыкальный инструмент"
+    ],
+    "Кожаный доспех и кинжал"
+  ],
+  "base_spell_mod": "charisma",
+  "abilities": {
+    "1": {
+      "": ""
+    }
+  }
+}
